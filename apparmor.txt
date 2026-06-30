@@ -1,0 +1,7 @@
+/usr/bin/node ix,
+/usr/lib/** r,
+/usr/local/lib/** r,
+
+network,
+capability net_raw,
+capability net_bind_service,
